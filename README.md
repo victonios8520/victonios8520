@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @victonios8520
-- 👀 I’m interested in IA and Data science
-- 🌱 I’m currently learning phython
+- 👋 Ola eu sou Victor Costa 
+
+- 👀 Sou muito interessado em ciencia de dados e inteligencia artificial
+
+- 🌱 Atualmente estou estudando python e linux
+
+- Voce consegue me contatar por :victorhenrique8520@gmail.com
+
 
 
 <!---
